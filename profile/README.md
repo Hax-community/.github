@@ -12,11 +12,3 @@
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hax-community)](https://github.com/anuraghazra/github-readme-stats)
 
-## Lsc0x80
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lsc0x80&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
-
-## Andrey-oss
-[![GitHub Streak](https://streak-stats.demolab.com?user=Andrey-oss&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
-
-## HiLamer
-[![GitHub Streak](https://streak-stats.demolab.com?user=HiLamer&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
