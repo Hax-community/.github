@@ -10,6 +10,8 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hax-community)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Lsc0x80
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lsc0x80&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
 
