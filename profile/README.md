@@ -10,4 +10,4 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lsc0x80&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lsc0x80&theme=highcontrast&mode=weekly)](https://git.io/streak-stats)
